@@ -11,9 +11,8 @@ This project was done in Python 3.7.5 on a linux machine. here are the libraries
 * scikit-learn (>= 0.22.2)
 * Pandas (>= 0.25.3)
 * Matplotlib (>= 3.1.2)
-* Seaborn (>= 0.10.0)
     
-### User installation
+### User installations
 
 Pandas was used to throughout the project to read and manipulate the data and put it in a useful form to extract information needed or be fed to a machine learning model. To install Pandas, use pip or conda as follows:
 
